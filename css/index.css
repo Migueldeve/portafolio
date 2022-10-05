@@ -35,13 +35,12 @@ a {
 }
 
 .hero h1 {
-    font-size: 80px;
+    color: black;
 }
 
 .hero p {
     font-size: 30px;
-    text-transform: uppercase;
-    color: #113CFC;
+    color: black;
 }
 
 nav {
@@ -96,8 +95,6 @@ nav .indicador {
 }
 
 .seccion .card {
-    width: 1400px;
-    height: 404px;
     background-color: #011522;
     border-radius: 8px;
 }
@@ -172,8 +169,7 @@ nav .indicador {
 
 /* From uiverse.io by @mrhyddenn */
 .container {
-  width: 1400px;
-  height: 404px;
+
 }
 
 .terminal_toolbar {
@@ -289,8 +285,6 @@ nav .indicador {
 /*CARD CONTACTO*/
 
 .card-client {
-  width: 1400px;
-  height: 404px;
   background: #011522;
   padding-top: 25px;
   padding-bottom: 25px;
